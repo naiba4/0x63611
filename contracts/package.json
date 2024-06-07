@@ -22,7 +22,7 @@
     "hardhat": "2.19.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3",
-    "@openzeppelin/contracts": "^4.9.5",
+    "@openzeppelin/contracts": "^4.9.6",
     "ds-test": "https://github.com/dapphub/ds-test.git"
   },
   "repository": {
